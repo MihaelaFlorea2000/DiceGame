@@ -10,6 +10,21 @@ h1 {
     margin: 10px;
 }
 
+footer {
+    font-family: 'Architects Daughter', cursive;
+    color: #eeeeee;
+    margin: 10px;
+    text-align: center;
+}
+
+footer a:link, footer a:visited {
+    color: #32e0c4;
+}
+footer a:hover {
+    color: #eeeeee;
+}
+
+
 .container {
     width: 70%;
     margin: 0 auto;
